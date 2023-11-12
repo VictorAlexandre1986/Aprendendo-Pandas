@@ -6,4 +6,9 @@ Aprendendo pandas no hashtag
 <ul>
   <li>Python</li>
   <li>Pandas</li>
+  <li>Jypiter Notebook</li>
 </ul>
+
+## Screenshot
+
+<img src="screenshot.png">
